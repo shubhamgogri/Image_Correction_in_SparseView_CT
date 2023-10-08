@@ -1,0 +1,10 @@
+name: mirnet
+dependencies:
+- numpy
+- pandas
+- tensorflow
+- matplotlib
+- keras
+- opencv-python
+- scikit-learn
+- sklearn
